@@ -10,5 +10,11 @@ Bem-vindo ao meu perfil no GitHub! Sou estudando de Analise e Desenvolvimento de
 ## 🚀 Atualmente trabalhando em
 Atualmente estou fazendo pequenos projetos para incluir ao meu portfolio.
 
-## Contato
-- [Linkedin](https://www.linkedin.com/in/justinolucas/)
+<div align="center">
+  <a href="https://github.com/JustinoLucas?tab=repositories">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JustinoLucas&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustinoLucas&layout=compact&langs_count=7&theme=dark"/>
+</div>
+
+
+![Snake animation](https://github.com/LeonardoOakes/LeonardoOakes/blob/output/github-contribution-grid-snake.svg)
