@@ -14,7 +14,6 @@ Atualmente estou fazendo pequenos projetos para incluir ao meu portfolio.
   <a href="https://github.com/JustinoLucas?tab=repositories">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JustinoLucas&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustinoLucas&layout=compact&langs_count=7&theme=dark"/>
-</div><br/>
+</div>
 
 
-![Snake animation](https://github.com/JustinoLucas/JustinoLucas/blob/output/github-contribution-grid-snake.svg)
