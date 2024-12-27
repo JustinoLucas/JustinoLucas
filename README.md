@@ -1,5 +1,5 @@
 # Olá 🔭
-Bem-vindo ao meu perfil no GitHub! Sou estudando de Analise e Desenvolvimento de Sistemas e apaixonado por Games.
+Bem-vindo ao meu perfil no GitHub! Sou estudante de Analise e Desenvolvimento de Sistemas e apaixonado por Games.
 
 ## Meu conhecimento
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
